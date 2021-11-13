@@ -4,6 +4,6 @@ This is a web scraping project* - the program scrapes articles from the scientif
 Technologies used:
 - Python
 - Beautifulsoup
-- Python modules:requests and o
+- Python modules:requests and os
 
 *Project based on JetBrains Academy project
